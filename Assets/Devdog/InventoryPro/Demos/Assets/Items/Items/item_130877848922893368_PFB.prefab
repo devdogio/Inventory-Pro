@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &124074
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 470800}
+  - 33: {fileID: 3304096}
+  - 65: {fileID: 6534388}
+  - 23: {fileID: 2360644}
+  - 114: {fileID: 11407858}
+  - 114: {fileID: 11475824}
+  - 135: {fileID: 13578552}
+  - 54: {fileID: 5477842}
+  - 114: {fileID: 11462876}
+  m_Layer: 21
+  m_Name: item_130877848922893368_PFB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &470800
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124074}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!23 &2360644
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124074}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!33 &3304096
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124074}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!54 &5477842
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124074}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &6534388
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124074}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &11407858
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3d19cddbbeaba4a9e4562fa4e4cd69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _id: 18
+  _name: Item pouch (small)
+  _description: A pouch containing items
+  _category: 0
+  _useCategoryCooldown: 1
+  _overrideDropObjectPrefab: {fileID: 0}
+  _icon: {fileID: 21300304, guid: bddecc020f6bf0445b97e3d1be62d39c, type: 3}
+  _layoutSizeCols: 1
+  _layoutSizeRows: 1
+  _weight: 2
+  _requiredLevel: 0
+  _rarity: 0
+  _properties: []
+  _usageRequirementProperties: []
+  _buyPrice:
+    _currencyID: 3
+    _amount: 65
+  _sellPrice:
+    _currencyID: 3
+    _amount: 9
+  _isDroppable: 1
+  _isSellable: 1
+  _isStorable: 1
+  _maxStackSize: 1
+  _cooldownTime: 0
+  audioClipWhenUsed:
+    audioClip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loop: 0
+  _items:
+  - {fileID: 11439538, guid: b855851bf49ee9142aa3aa1f57a70a2d, type: 2}
+  - {fileID: 11476484, guid: b9fc7d477df4a444593665a11edb2424, type: 2}
+  generateItems: 1
+  filterGroups:
+  - filters:
+    - restrictionType: 0
+      filterType: 0
+      stringValue: Devdog.InventorySystem.ConsumableInventoryItem, Assembly-CSharp,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      boolValue: 0
+      floatValue: 0
+      intValue: 0
+    - restrictionType: 2
+      filterType: 3
+      stringValue: 
+      boolValue: 0
+      floatValue: 0
+      intValue: 3
+    matchType: 0
+    minAmount: 1
+    maxAmount: 3
+    minStackSize: 1
+    maxStackSize: 3
+    itemsChanceFactor: 1
+  - filters:
+    - restrictionType: 0
+      filterType: 0
+      stringValue: Devdog.InventorySystem.EquippableInventoryItem, Assembly-CSharp,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      boolValue: 0
+      floatValue: 0
+      intValue: 0
+    matchType: 0
+    minAmount: 1
+    maxAmount: 2
+    minStackSize: 1
+    maxStackSize: 1
+    itemsChanceFactor: 1
+  minAmountTotal: 2
+  maxAmountTotal: 5
+--- !u!114 &11462876
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d341b194f740b4aa2076e8051bccf8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filterGroups:
+  - filters: []
+    matchType: 0
+    minAmount: 0
+    maxAmount: 0
+    minStackSize: 0
+    maxStackSize: 0
+    itemsChanceFactor: 0
+  - filters: []
+    matchType: 0
+    minAmount: 0
+    maxAmount: 0
+    minStackSize: 0
+    maxStackSize: 0
+    itemsChanceFactor: 0
+  generateAtGameStart: 1
+  minAmountTotal: 2
+  maxAmountTotal: 5
+--- !u!114 &11475824
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba77e3e4ff91e1c408d6d8c5dd12ad13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!135 &13578552
+SphereCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124074}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 124074}
+  m_IsPrefabParent: 1

@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9c169b4-58e9-4eaa-9838-50e461167bc0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.InventoryPro/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InventoryPro/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.InventoryPro/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InventoryPro/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.InventoryPro/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InventoryPro/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.InventoryPro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InventoryPro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/Internal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Demos/Scenes/8.AllDone/8.AllDone.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Demos/Scenes/8.AllDone/8.AllDone.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Demos/Scenes/InventoryProSave.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Demos/Scenes/InventoryProSave/SaveLoad.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Demos/Scenes/InventoryProSave/SaveLoad.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Currency/Models/CurrencyDefinition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Currency/Models/CurrencyDefinition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/Editor/GettingStartedEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/Editor/GettingStartedEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/InventoryPro.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/InventoryPro.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/InventorySettingsDatabase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/InventorySettingsDatabase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Stats/StatDefinition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Stats/StatDefinition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs" beforeDir="false" afterPath="$PROJECT_DIR$/Docs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1385175189">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="767" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="767" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Character/CharacterUI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+              <folding>
+                <marker date="1530611979187" expanded="true" signature="6:240" ph="..." />
+                <marker date="1530611979187" expanded="true" signature="271:15924" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="519:15922" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="653:770" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="990:1097" ph="/// The player that this CharacterUI belongs to. (can be null) ... " />
+                <marker date="1530611979187" expanded="true" signature="1192:1563" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="1257:1553" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="1377:1539" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="1638:1875" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="1664:1818" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="1927:2044" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="1953:2034" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="2085:2565" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="2606:2679" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="2725:2758" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="2811:3844" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="2936:3600" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="3040:3586" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="3389:3568" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="3654:3834" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="3902:3935" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="3996:4219" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="4104:4162" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="4229:4463" ph="/// Called by the InventoryDragAccepter, when an item is dropped on the window / a specific location, this method ... " />
+                <marker date="1530611979187" expanded="true" signature="4522:4808" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="4819:5056" ph="/// Get all slots where this item can be equipped. ... " />
+                <marker date="1530611979187" expanded="true" signature="5137:6874" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="5191:5441" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="5492:5678" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="5793:6822" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="5939:6005" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="6065:6808" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="6135:6790" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="6367:6628" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="6503:6602" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="6665:6768" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="6950:7830" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="7231:7380" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="7448:7506" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="7559:7617" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="7709:7767" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="7840:8085" ph="/// Some item's require multiple slots, for example a 2 handed item forces the left handed item to be empty. ... " />
+                <marker date="1530611979187" expanded="true" signature="8190:9500" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="8377:9191" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="8506:9177" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="8618:9159" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="8797:9137" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="9005:9111" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="9236:9464" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="9600:9646" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="9761:9844" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="9917:10296" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="10025:10240" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="10156:10226" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="10419:11061" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="10539:11051" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="10925:11037" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="11170:12352" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="11713:12196" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="11769:12182" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="12070:12164" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="12439:14042" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="12587:12645" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="12938:13185" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="13101:13171" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="13346:13994" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="13470:13831" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="13536:13813" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="14126:15379" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="14491:14549" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="14590:14969" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="14640:14826" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="14986:15343" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="15047:15329" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="15111:15311" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="15528:15916" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="15658:15877" ph="{...}" />
+                <marker date="1530611979187" expanded="true" signature="15714:15783" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/InventoryPro.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="68" />
+              <folding>
+                <marker date="1536054095086" expanded="true" signature="6:107" ph="..." />
+                <marker date="1536054095086" expanded="true" signature="138:606" ph="{...}" />
+                <marker date="1536054095086" expanded="true" signature="177:604" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Constants.ProductName</find>
+      <find>devdog.nl</find>
+      <find>discord</find>
+      <find>DoUpdate</find>
+      <find>didReloadScripts</find>
+      <find>editorPrefsKey</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/PlayMaker/Editor/PreUpdateChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Player/InventoryPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/SaverLoaderBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/iTween/iTween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/General/Managers/Editor/GettingStartedEditorBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6949EC5-53D4-4DE3-9F54-5BAB8EBF397B/56/49e5c83e/PlayerPrefs.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Character/Interfaces/ICharacterCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/PlayerPrefsCollectionSaverLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Items/EquippableInventoryItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/InventoryPro.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/Models/ItemCollectionSerializationModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/CollectionSaverLoaderBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/Editor/DocumentationLinkEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/General/Localization/LocalizationDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Skillbar/SkillbarUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/General/Managers/Editor/IntegrationHelperEditorBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/UI/SlotUI/ItemCollectionSlotUIKeyTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Character/CharacterUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C45BCCEA-FB79-4BBB-B647-70094BBD749C/cc/edcfa80f/BuildTargetGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3DC17AFD-5B39-4F64-A015-1A81DB3CF8F2/22/583ea463/String.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/Editor/GettingStartedEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Behavior Designer/Runtime/Conditionals/Physics/HasEnteredTrigger2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Triggers/LootableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dialogue System/Scripts/Supplemental/UI/Effects/UpdateLocalizedUITexts.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/CollectionSaverLoaderBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/Models/ItemCollectionSerializationModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Config.xml" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/README.txt" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/Editor/DocumentationLinkEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/UI/SlotUI/ItemCollectionSlotUIKeyTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Skillbar/SkillbarUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/General/Managers/Editor/IntegrationHelperEditorBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Character/CharacterUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Player/InventoryPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/General/Localization/LocalizationDatabase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/General/Editor/RateAssetEditorWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/Editor/GettingStartedEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/General/Managers/Editor/GettingStartedEditorBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/InventoryPro.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1863" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="InventoryPro" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="InventoryPro" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Devdog" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Devdog" type="1045f7f1:UnityExplorerNode" />
+              <item name="General" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Devdog" type="1045f7f1:UnityExplorerNode" />
+              <item name="General" type="1045f7f1:UnityExplorerNode" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Devdog" type="1045f7f1:UnityExplorerNode" />
+              <item name="General" type="1045f7f1:UnityExplorerNode" />
+              <item name="Managers" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Devdog" type="1045f7f1:UnityExplorerNode" />
+              <item name="General" type="1045f7f1:UnityExplorerNode" />
+              <item name="Managers" type="1045f7f1:UnityExplorerNode" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="inventorypro&#9;FILE&#9;file://F:/Projects/UnityPackages/InventoryPro/Assets/Devdog/InventoryPro/Scripts/Managers/InventoryPro.cs&#10;gettingstartededitor&#9;FILE&#9;file://F:/Projects/UnityPackages/InventoryPro/Assets/Devdog/InventoryPro/Scripts/Managers/Editor/GettingStartedEditor.cs&#10;gettingstartededitorbase&#9;FILE&#9;file://F:/Projects/UnityPackages/InventoryPro/Assets/Devdog/General/Managers/Editor/GettingStartedEditorBase.cs&#10;localization&#9;null&#9;null&#10;localizationdatabase&#9;null&#9;null&#10;inventoryplayer&#9;null&#9;null&#10;characterUI&#9;FILE&#9;file://F:/Projects/UnityPackages/InventoryPro/Assets/Devdog/InventoryPro/Scripts/Modules/Character/CharacterUI.cs&#10;integrationhelper&#9;null&#9;null&#10;skillbarUI&#9;null&#9;null&#10;equippableitem&#9;null&#9;null&#10;playerprefscollection&#9;FILE&#9;file://F:/Projects/UnityPackages/InventoryPro/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/PlayerPrefsCollectionSaverLoader.cs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9c169b4-58e9-4eaa-9838-50e461167bc0" name="Default" comment="" />
+      <created>1526902862953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526902862953</updated>
+      <workItem from="1526902873356" duration="318000" />
+      <workItem from="1526903260622" duration="2033000" />
+      <workItem from="1527149348731" duration="1410000" />
+      <workItem from="1529657367741" duration="821000" />
+      <workItem from="1530606685267" duration="7401000" />
+      <workItem from="1536050766990" duration="3497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15480000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21801706" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980733" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Unity" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3DC17AFD-5B39-4F64-A015-1A81DB3CF8F2/22/583ea463/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="2291" column="6" selection-start-line="2291" selection-start-column="6" selection-end-line="2291" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/SaverLoaderBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6949EC5-53D4-4DE3-9F54-5BAB8EBF397B/56/49e5c83e/PlayerPrefs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/PlayerPrefsCollectionSaverLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Items/EquippableInventoryItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="101" lean-forward="true" selection-start-line="1" selection-start-column="101" selection-end-line="1" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/Models/ItemCollectionSerializationModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Serialization/CollectionSaverLoaderBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/Editor/DocumentationLinkEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Skillbar/SkillbarUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="81" column="13" lean-forward="true" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/UI/SlotUI/ItemCollectionSlotUIKeyTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C45BCCEA-FB79-4BBB-B647-70094BBD749C/cc/edcfa80f/BuildTargetGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/General/Managers/Editor/IntegrationHelperEditorBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="103" column="13" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/General/Localization/LocalizationDatabase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="138" column="13" lean-forward="true" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Character/Interfaces/ICharacterCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/General/Editor/ProductRatingUtility.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/General/Editor/RateAssetEditorWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="93" column="13" lean-forward="true" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/General/Editor/GameRules/DefaultRules/UnratedAssetsRule.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/General/Managers/Editor/NewsletterEditorUtility.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/General/Managers/Editor/GettingStartedEditorBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="23" />
+          <folding>
+            <marker date="1536054063399" expanded="true" signature="6:103" ph="..." />
+            <marker date="1536054063399" expanded="true" signature="137:6619" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="205:6617" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="2222:2330" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="2363:3181" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="3257:4080" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="3328:3410" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="4125:4878" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="4753:4831" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="4931:5289" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="5152:5279" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="5408:6451" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="5881:5935" ph="{...}" />
+            <marker date="1536054063399" expanded="true" signature="6500:6611" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/Editor/GettingStartedEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="927">
+          <caret line="69" selection-start-line="69" selection-end-line="72" selection-end-column="15" />
+          <folding>
+            <marker date="1536052784271" expanded="true" signature="6:144" ph="..." />
+            <marker date="1536052784271" expanded="true" signature="183:2886" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="273:2884" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="463:978" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="1017:1085" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="1118:1356" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="1153:1316" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="1224:1302" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="1471:1613" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="1656:1710" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="1764:2878" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="1936:2019" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="2160:2237" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="2342:2419" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="2544:2626" ph="{...}" />
+            <marker date="1536052784271" expanded="true" signature="2743:2826" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Managers/InventoryPro.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="68" />
+          <folding>
+            <marker date="1536054095086" expanded="true" signature="6:107" ph="..." />
+            <marker date="1536054095086" expanded="true" signature="138:606" ph="{...}" />
+            <marker date="1536054095086" expanded="true" signature="177:604" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Player/InventoryPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="69" column="57" lean-forward="true" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+          <folding>
+            <marker date="1483135878033" expanded="true" signature="6:211" ph="..." />
+            <marker date="1483135878033" expanded="true" signature="242:6903" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="469:6901" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="820:921" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="1310:1376" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="1433:1493" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="1697:1857" ph="/// Initialize this player. The player will be added to the players list ( assigned to the InventoryPlayerManager ... " />
+            <marker date="1483135878033" expanded="true" signature="1892:2692" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="2288:2378" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="2422:2484" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="2522:2648" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="2741:3174" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="2888:3164" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="2950:3014" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="3035:3150" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="3249:3412" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="3318:3381" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="3465:3561" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="3623:3727" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="3871:5483" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="3983:4077" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="4110:4190" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="4275:5257" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="4473:4674" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="4742:5243" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="4816:5225" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="5309:5366" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="5493:5610" ph="/// For collider based characters ... " />
+            <marker date="1483135878033" expanded="true" signature="5667:5726" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="5736:5856" ph="/// For 2D collider based characters ... " />
+            <marker date="1483135878033" expanded="true" signature="5917:5976" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="5986:6099" ph="/// Collision pickup attempts ... " />
+            <marker date="1483135878033" expanded="true" signature="6156:6652" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="6475:6642" ph="{...}" />
+            <marker date="1483135878033" expanded="true" signature="6714:6895" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Devdog/InventoryPro/Scripts/Modules/Character/CharacterUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding>
+            <marker date="1530611979187" expanded="true" signature="6:240" ph="..." />
+            <marker date="1530611979187" expanded="true" signature="271:15924" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="519:15922" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="653:770" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="990:1097" ph="/// The player that this CharacterUI belongs to. (can be null) ... " />
+            <marker date="1530611979187" expanded="true" signature="1192:1563" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="1257:1553" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="1377:1539" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="1638:1875" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="1664:1818" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="1927:2044" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="1953:2034" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="2085:2565" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="2606:2679" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="2725:2758" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="2811:3844" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="2936:3600" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="3040:3586" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="3389:3568" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="3654:3834" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="3902:3935" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="3996:4219" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="4104:4162" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="4229:4463" ph="/// Called by the InventoryDragAccepter, when an item is dropped on the window / a specific location, this method ... " />
+            <marker date="1530611979187" expanded="true" signature="4522:4808" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="4819:5056" ph="/// Get all slots where this item can be equipped. ... " />
+            <marker date="1530611979187" expanded="true" signature="5137:6874" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="5191:5441" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="5492:5678" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="5793:6822" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="5939:6005" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="6065:6808" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="6135:6790" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="6367:6628" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="6503:6602" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="6665:6768" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="6950:7830" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="7231:7380" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="7448:7506" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="7559:7617" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="7709:7767" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="7840:8085" ph="/// Some item's require multiple slots, for example a 2 handed item forces the left handed item to be empty. ... " />
+            <marker date="1530611979187" expanded="true" signature="8190:9500" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="8377:9191" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="8506:9177" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="8618:9159" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="8797:9137" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="9005:9111" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="9236:9464" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="9600:9646" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="9761:9844" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="9917:10296" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="10025:10240" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="10156:10226" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="10419:11061" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="10539:11051" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="10925:11037" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="11170:12352" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="11713:12196" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="11769:12182" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="12070:12164" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="12439:14042" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="12587:12645" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="12938:13185" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="13101:13171" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="13346:13994" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="13470:13831" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="13536:13813" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="14126:15379" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="14491:14549" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="14590:14969" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="14640:14826" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="14986:15343" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="15047:15329" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="15111:15311" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="15528:15916" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="15658:15877" ph="{...}" />
+            <marker date="1530611979187" expanded="true" signature="15714:15783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

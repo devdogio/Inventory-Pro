@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aee9c35122abd23458ddb18edd496d6a, type: 3}
+  m_Name: UFPSItemDatabase
+  m_EditorClassIdentifier: 
+  plyAttributes:
+  - ID:
+      savedIdent: dd6ecb7e8c344da49cf11373207d9729
+    show: 1
+    category: Default
+  - ID:
+      savedIdent: 187478513b71498e8b0ab25d45ab5e02
+    show: 1
+    category: Default
+  - ID:
+      savedIdent: 0e069f5dbef5488d9faab49730ce6357
+    show: 1
+    category: Default
+  - ID:
+      savedIdent: b0adf0e8ccdd467f82ab7b362c67bfee
+    show: 1
+    category: Default
+  - ID:
+      savedIdent: a4e3c43dc16d42d1b8e8e841968fd685
+    show: 1
+    category: Default
+  items:
+  - {fileID: 11411346, guid: c6ace3cf61dfb5a42aa8853970525f0a, type: 2}
+  - {fileID: 11415468, guid: 3bc4c92968b162c418e4d7a6a62ac1f1, type: 2}
+  - {fileID: 11474028, guid: 6a9a016b4a402f84ea13819d0bb56cc1, type: 2}
+  - {fileID: 11410626, guid: 60f7d915b4a6bac419151905f701c3ea, type: 2}
+  - {fileID: 11455348, guid: 45ff3863f8f7ac64687ecbf3762fcdbe, type: 2}
+  - {fileID: 11480204, guid: b29f4d6a8d7475b40ac3f42547338034, type: 2}
+  - {fileID: 11430638, guid: 76369323d6b79044d92ba87a08627288, type: 2}
+  rarities:
+  - {fileID: 11400000, guid: bc557952a8336054b973fad096f592e7, type: 2}
+  - {fileID: 11400000, guid: 275dc2d0c870f1646a5c2a43435dc825, type: 2}
+  - {fileID: 11400000, guid: d7a435ddbbd252a45af6f69366d8b54f, type: 2}
+  categories:
+  - {fileID: 11400000, guid: eb77c9126f485004d89d72b6ca01b3be, type: 2}
+  - {fileID: 11400000, guid: cde3be9392e97b3409532f333ae17ca4, type: 2}
+  - {fileID: 11400000, guid: 22fe12356c39ab14d9cba5b9dd9307b7, type: 2}
+  statDefinitions:
+  - {fileID: 11400000, guid: 35b7989dbd36e86409b8d8d56801109c, type: 2}
+  - {fileID: 11400000, guid: e9b9e4d122654294499b7916e5dab036, type: 2}
+  - {fileID: 11400000, guid: 209f35eaeb1e0324db20c473198472f0, type: 2}
+  equipmentTypes:
+  - {fileID: 11400000, guid: dd85d3bd06aae894a965cf0fa5c043d2, type: 2}
+  - {fileID: 11400000, guid: a77b1715aea398041bf5790165c31980, type: 2}
+  - {fileID: 11400000, guid: 51013ff9f4c5edc4cb1b16a2848bc538, type: 2}
+  - {fileID: 11400000, guid: 188a3317029659e498134b8d2a4abd79, type: 2}
+  - {fileID: 11400000, guid: b528a19d8a47a1a40a614eaf88a3f161, type: 2}
+  craftingCategories:
+  - {fileID: 11400000, guid: c2340ccfa80a631449e9795624adce4c, type: 2}
+  currencies:
+  - {fileID: 11400000, guid: 9ecfec717ca7b6b408adc4585f2d7d3d, type: 2}
+  itemRarities: []
+  itemCategories: []
+  itemProperties: []
+  equipTypes: []
+  inventoryCraftingCategories: []
+  inventoryCurrencies: []

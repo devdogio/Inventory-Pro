@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07aa2090778ebbf4c9e40567f8de06d3, type: 3}
+  m_Name: 1_Boots
+  m_EditorClassIdentifier: 
+  ID: 1
+  useItemResultNameAndDescription: 1
+  customName: 
+  customDescription: 
+  requiredItems:
+  - item: {fileID: 11476484, guid: 4f6c5d3910c9f024c8df75227f0ed4f3, type: 2}
+    amount: 1
+  - item: {fileID: 11440928, guid: 30de08b4325289e47828e94bef06f900, type: 2}
+    amount: 1
+  - item: {fileID: 11424262, guid: 688d16d0a47bc14498a91380bb12821b, type: 2}
+    amount: 1
+  usageRequirement:
+  - stat: {fileID: 11400000, guid: da368812df65b0545840950a7ed41004, type: 2}
+    value: 3
+    filterType: 2
+  playerLearnedBlueprint: 1
+  craftingCost:
+    _currency: {fileID: 11400000, guid: 0e17a9dfe570a1b40b7737b60fab21e4, type: 2}
+    _amount: 1
+  successChanceFactor: 1
+  resultItems:
+  - item: {fileID: 11439538, guid: b855851bf49ee9142aa3aa1f57a70a2d, type: 2}
+    amount: 1
+  craftingTimeDuration: 0
+  craftingTimeSpeedupFactor: 1
+  craftingTimeSpeedupMax: 1
+  blueprintLayouts: []

@@ -1,0 +1,385 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &123154
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 465356}
+  - 33: {fileID: 3390002}
+  - 65: {fileID: 6538062}
+  - 23: {fileID: 2335570}
+  - 114: {fileID: 11498412}
+  - 135: {fileID: 13539914}
+  - 54: {fileID: 5435354}
+  - 114: {fileID: 11467458}
+  - 114: {fileID: 11481004}
+  - 114: {fileID: 11494640}
+  m_Layer: 21
+  m_Name: Item_item_pouch_(large)_#19_ItemDatabase_PFB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &465356
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!23 &2335570
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!33 &3390002
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!54 &5435354
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &6538062
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &11467458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d341b194f740b4aa2076e8051bccf8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filterGroups:
+  - filters: []
+    matchType: 0
+    minAmount: 0
+    maxAmount: 0
+    minStackSize: 0
+    maxStackSize: 0
+    itemsChanceFactor: 0
+  - filters: []
+    matchType: 0
+    minAmount: 0
+    maxAmount: 0
+    minStackSize: 0
+    maxStackSize: 0
+    itemsChanceFactor: 0
+  generateAtGameStart: 1
+  minAmountTotal: 2
+  maxAmountTotal: 5
+--- !u!114 &11481004
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d9eef25c6bb8754899dc81ec4bd6344, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  useWhenPlayerComesInRange: 0
+  blockPlayerInput: 0
+  itemPrefab: {fileID: 0}
+--- !u!114 &11494640
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0867a5d452aeec445a83de31e5db6976, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11498412
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3d19cddbbeaba4a9e4562fa4e4cd69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _id: 18
+  _name: Item pouch (small)
+  _description: A pouch containing items
+  _category: {fileID: 11400000, guid: eb77c9126f485004d89d72b6ca01b3be, type: 2}
+  _useCategoryCooldown: 1
+  _overrideDropObjectPrefab: {fileID: 0}
+  _icon: {fileID: 21300304, guid: bddecc020f6bf0445b97e3d1be62d39c, type: 3}
+  _layoutSizeCols: 1
+  _layoutSizeRows: 1
+  _weight: 2
+  _requiredLevel: 0
+  _rarity: {fileID: 11400000, guid: 7f7f0f5c9c3e3b3469532713da1c81b8, type: 2}
+  _stats: []
+  _usageRequirement: []
+  _buyPrice:
+    _currency: {fileID: 11400000, guid: 0e17a9dfe570a1b40b7737b60fab21e4, type: 2}
+    _amount: 65
+  _sellPrice:
+    _currency: {fileID: 11400000, guid: 0e17a9dfe570a1b40b7737b60fab21e4, type: 2}
+    _amount: 9
+  _isDroppable: 1
+  _isSellable: 1
+  _isStorable: 1
+  _maxStackSize: 1
+  _cooldownTime: 0
+  audioClipWhenUsed:
+    audioClip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loop: 0
+  _items:
+  - {fileID: 11439538, guid: b855851bf49ee9142aa3aa1f57a70a2d, type: 2}
+  - {fileID: 11476484, guid: b9fc7d477df4a444593665a11edb2424, type: 2}
+  generateItems: 1
+  filterGroups:
+  - filters:
+    - restrictionType: 0
+      filterType: 0
+      categoryValue: {fileID: 0}
+      statDefinitionValue: {fileID: 0}
+      rarityValue: {fileID: 0}
+      stringValue: Devdog.InventorySystem.ConsumableInventoryItem, Assembly-CSharp,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      boolValue: 0
+      floatValue: 0
+      intValue: 0
+    - restrictionType: 2
+      filterType: 3
+      categoryValue: {fileID: 0}
+      statDefinitionValue: {fileID: 0}
+      rarityValue: {fileID: 0}
+      stringValue: 
+      boolValue: 0
+      floatValue: 0
+      intValue: 3
+    matchType: 0
+    minAmount: 1
+    maxAmount: 3
+    minStackSize: 1
+    maxStackSize: 3
+    itemsChanceFactor: 1
+  - filters:
+    - restrictionType: 0
+      filterType: 0
+      categoryValue: {fileID: 0}
+      statDefinitionValue: {fileID: 0}
+      rarityValue: {fileID: 0}
+      stringValue: Devdog.InventorySystem.EquippableInventoryItem, Assembly-CSharp,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      boolValue: 0
+      floatValue: 0
+      intValue: 0
+    matchType: 0
+    minAmount: 1
+    maxAmount: 2
+    minStackSize: 1
+    maxStackSize: 1
+    itemsChanceFactor: 1
+  minAmountTotal: 2
+  maxAmountTotal: 5
+--- !u!135 &13539914
+SphereCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123154}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: _items.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[2].filters.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[0].filters.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _name
+      value: Item pouch (large)
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _description
+      value: A large pouch containing items
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _icon
+      value: 
+      objectReference: {fileID: 21300304, guid: bddecc020f6bf0445b97e3d1be62d39c,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: _weight
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _buyPrice._currencyID
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _buyPrice._amount
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _sellPrice._currencyID
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _sellPrice._amount
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: audioClipWhenUsed
+      value: 
+      objectReference: {fileID: 8300000, guid: a0b11358bc4692643a1d6cf83844383f, type: 3}
+    - target: {fileID: 0}
+      propertyPath: maxAmountTotal
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[0].minAmount
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[0].maxAmount
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[2].filters.Array.data[0].stringValue
+      value: Devdog.InventorySystem.CurrencyInventoryItem, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[2].maxAmount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[2].maxStackSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[2].minAmount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[2].minStackSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[2].itemsChanceFactor
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[0].filters.Array.data[1].intValue
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[0].filters.Array.data[1].restrictionType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: filterGroups.Array.data[0].filters.Array.data[1].filterType
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: audioClipWhenUsed.audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: a0b11358bc4692643a1d6cf83844383f, type: 3}
+    - target: {fileID: 0}
+      propertyPath: _maxStackSize
+      value: 99
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _usageRequirementProperties.Array.data[0]._propertyID
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _usageRequirementProperties.Array.data[0].value
+      value: 10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 123154}
+  m_IsPrefabParent: 1

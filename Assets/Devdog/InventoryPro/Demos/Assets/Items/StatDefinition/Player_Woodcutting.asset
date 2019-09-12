@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce38bc8f61579041b751c97bf0ac3f0, type: 3}
+  m_Name: Player_Woodcutting
+  m_EditorClassIdentifier: 
+  ID: 1
+  _enabled: 1
+  _statName: Woodcutting
+  _category: Player
+  _showInUI: 1
+  _uiPrefab: {fileID: 11438680, guid: daab7375d65094f419fbf9574c539450, type: 2}
+  _valueStringFormat: '{0}'
+  _color: {r: 1, g: 1, b: 1, a: 1}
+  _icon: {fileID: 0}
+  _baseValue: 1
+  _maxValue: 100
+  _startLevel: 1
+  _autoProgressLevels: 1
+  _levels:
+  - maxValue: 100
+    experienceRequired: 0
+    effectOnUnlock: {fileID: 0}
+  - maxValue: 100
+    experienceRequired: 50
+    effectOnUnlock: {fileID: 0}
+  - maxValue: 100
+    experienceRequired: 80
+    effectOnUnlock: {fileID: 0}
+  - maxValue: 100
+    experienceRequired: 150
+    effectOnUnlock: {fileID: 0}
+  - maxValue: 100
+    experienceRequired: 240
+    effectOnUnlock: {fileID: 0}
+  - maxValue: 100
+    experienceRequired: 350
+    effectOnUnlock: {fileID: 0}
+  - maxValue: 100
+    experienceRequired: 480
+    effectOnUnlock: {fileID: 0}
+  - maxValue: 100
+    experienceRequired: 630
+    effectOnUnlock: {fileID: 0}
+  - maxValue: 100
+    experienceRequired: 800
+    effectOnUnlock: {fileID: 0}
+  - maxValue: 100
+    experienceRequired: 1200
+    effectOnUnlock: {fileID: 0}

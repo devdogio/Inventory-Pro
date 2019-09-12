@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Everything from InventoryUIItemWrapper and down is UI platform specific, everything above it is not.">
+    <Position X="2.68" Y="3.389" Height="0.899" Width="2.322" />
+  </Comment>
+  <Class Name="Devdog.InventorySystem.InventoryUIItemWrapperBase" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAQAAABAIAAAQgAAAAIBAAAAAAAAAAAUJBAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\UI\UIItemWrappers\InventoryUIItemWrapperBase.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_item" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.231" />
+  </Class>
+  <Class Name="Devdog.InventorySystem.InventoryUIItemWrapper" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="2.25" />
+    <InheritanceLine Type="Devdog.InventorySystem.InventoryUIItemWrapperBase" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="1.441" />
+        <Point X="6.25" Y="3.125" />
+        <Point X="6.375" Y="3.125" />
+        <Point X="6.375" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQSAAAAARAIIAIIAAADAEAAAAAAgQCAAAQAAAUJAQEQ=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\UI\UIItemWrappers\InventoryUIItemWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.783" />
+  </Class>
+  <Class Name="Devdog.InventorySystem.InventoryUIItemWrapperLoot" Collapsed="true">
+    <Position X="1.25" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAABAAAAAAIIAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\UI\UIItemWrappers\InventoryUIItemWrapperLoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventorySystem.InventoryUIItemWrapperReferenceSum" Collapsed="true">
+    <Position X="4.25" Y="5.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAEAACAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\UI\UIItemWrappers\InventoryUIItemWrapperReferenceSum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventorySystem.InventoryUIItemWrapperStatic" Collapsed="true">
+    <Position X="7.75" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAIIAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\UI\UIItemWrappers\InventoryUIItemWrapperStatic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventorySystem.InventoryUIItemWrapperVendor" Collapsed="true">
+    <Position X="10.75" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AASAAAhAAAAEAIIAAAAAAAAAAEAAAAAAAAAAAQAAgEA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\UI\UIItemWrappers\InventoryUIItemWrapperVendor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventorySystem.InventoryItemBase" Collapsed="true">
+    <Position X="1.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ICNBIAAEBAAZlCEkICRACQKFJAAECECgoUAIAAABgAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Items\InventoryItemBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventorySystem.ItemCollectionBase" Collapsed="true">
+    <Position X="10.5" Y="0.75" Width="2" />
+    <NestedTypes>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.RemovedReference" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.SwappedItems" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.AddedItems" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.GoldChanged" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.AddedItemCollectionFull" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.RemovedItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.DroppedItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.Sorted" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.UnstackedItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.AddedItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.UsedItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.InventoryResized" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Devdog.InventorySystem.ItemCollectionBase.UnstackedItemCollectionFull" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>RIAAIAAABPCIxAFQyLgQUIJAgREMGGADADQAgFgAMkA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Other\ItemCollectionBase.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_items" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

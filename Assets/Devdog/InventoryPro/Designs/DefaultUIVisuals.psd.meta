@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: bba01b71c3bb4d2478d56d33340dd469
+labels:
+- Design
+- GUI
+- Inventory
+- PSD
+- Photoshop
+- Pro
+- UI
+- UX
+timeCreated: 1451004377
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IconDefault
+    21300002: IconRare
+    21300004: IconGold
+    21300006: IconSort
+    21300008: WindowTopLeft
+    21300010: WindowTop
+    21300012: WindowTopRight
+    21300014: SeparatorLeft
+    21300016: SeparatorRight
+    21300018: WindowLeft
+    21300020: WindowCenter
+    21300022: WindowRight
+    21300024: SeparatorCenter
+    21300026: WindowBottomLeft
+    21300028: WindowBottom
+    21300030: WindowBottomRight
+    21300032: DefaultWindow
+    21300034: InputField
+    21300036: InputFocused
+    21300038: SeperatorLeft
+    21300040: SeperatorRight
+    21300042: SeperatorCenter
+    21300044: IconSearch
+    21300046: InfoBox
+    21300048: InfoBoxSeperator
+    21300050: SkillbarBg
+    21300052: IconCooldown
+    21300054: ScrollbarBG
+    21300056: ScrollingBox
+    21300058: IconUndo
+    21300060: IconSell
+    21300062: ScrollingBox_Light
+    21300064: IconHand
+    21300066: BagIcon
+    21300068: CharacterIcon
+    21300070: IconWeight
+    21300072: Border_Outline
+    21300074: IconHeart
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconDefault
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 974
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconRare
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 974
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconGold
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 986
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconSort
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 987
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DefaultWindow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 28, z: 28, w: 22}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: InputField
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 873
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 20, z: 25, w: 20}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: InputFocused
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 818
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 20, z: 25, w: 20}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SeperatorLeft
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 947
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SeperatorRight
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 947
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SeperatorCenter
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 931
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconSearch
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 987
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: InfoBox
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 776
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SkillbarBg
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 626
+        width: 733
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconCooldown
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 974
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: InfoBoxSeperator
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 755
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 12, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ScrollbarBG
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 931
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 12, z: 0, w: 12}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ScrollingBox
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 924
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 15, z: 0, w: 15}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconUndo
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 983
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconSell
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 983
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ScrollingBox_Light
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 924
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 15, z: 0, w: 15}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconHand
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 983
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BagIcon
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 966
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CharacterIcon
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 908
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconWeight
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 983
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Border_Outline
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 782
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconHeart
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 989
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

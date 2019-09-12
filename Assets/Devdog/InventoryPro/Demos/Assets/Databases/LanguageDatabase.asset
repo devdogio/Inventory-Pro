@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5f13dc1f42a45f45851788f51556a06, type: 3}
+  m_Name: LanguageDatabase
+  m_EditorClassIdentifier: 
+  itemCannotBeDropped:
+    title: 
+    message: Item {0} cannot be dropped
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  itemCannotBeStored:
+    title: 
+    message: Item {0} cannot be stored
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  itemCannotBeUsed:
+    title: 
+    message: Item {0} cannot be used
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  itemCannotBeUsedLevelToLow:
+    title: 
+    message: Item {0} cannot be used required level is {2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  itemCannotBeSold:
+    title: 
+    message: Item {0} cannot be sold
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  itemCannotBePickedUpToFarAway:
+    title: 
+    message: Item {0} is to far away to pick up
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  itemIsInCooldown:
+    title: 
+    message: Item {0} is in cooldown {2} more seconds
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  itemCannotBeUsedToLowProperty:
+    title: 
+    message: Item {0} cannot be used {2} is to low
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  itemCannotBeUsedPropertyNotValid:
+    title: 
+    message: Item {0} cannot be used {2} is to high or to low
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  collectionDoesNotAllowType:
+    title: 
+    message: Does not allow type
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  collectionFull:
+    title: 
+    message: '{2} is full'
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  triggererCantBeUsedMissingItems:
+    title: 
+    message: '{0} can''t be used. Missing {1}'
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  triggererCantBeUsedFailedPropertyRequirements:
+    title: 
+    message: '{0} can''t be used. {1} is to high or to low'
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  userNotEnoughGold:
+    title: 
+    message: Not enough gold
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  craftedItem:
+    title: 
+    message: Successfully crafted {0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  craftingFailed:
+    title: 
+    message: Crafting item {0} failed
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  craftingCanceled:
+    title: 
+    message: Crafting item {0} canceled
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  craftingDontHaveRequiredItems:
+    title: 
+    message: You don't have the required items to craft {2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  craftingCannotPropertyNotValid:
+    title: 
+    message: Item {0} cannot be crafted {2} is to high or to low
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  vendorCannotSellItem:
+    title: 
+    message: Cannot sell item {0} to this vendor.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  vendorSoldItemToVendor:
+    title: 
+    message: Sold {2}x {0} to vendor {3} for {4}.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  vendorBoughtItemFromVendor:
+    title: 
+    message: Bought {2}x {0} from vendor {3} for {4}.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    duration: 4
+  confirmationDialogDrop:
+    title: Are you sure?
+    message: Are you sure you want to drop {0}?
+  unstackDialog:
+    title: Unstack item {0}
+    message: How many do you want to unstack?

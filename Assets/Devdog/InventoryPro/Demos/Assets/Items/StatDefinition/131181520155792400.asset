@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce38bc8f61579041b751c97bf0ac3f0, type: 3}
+  m_Name: 131181520155792400
+  m_EditorClassIdentifier: 
+  ID: 0
+  _enabled: 1
+  _statName: 
+  _category: Default
+  _showInUI: 1
+  _uiPrefab: {fileID: 0}
+  _valueStringFormat: '{0}'
+  _color: {r: 1, g: 1, b: 1, a: 1}
+  _icon: {fileID: 0}
+  _baseValue: 0
+  _maxValue: 100
+  _startLevel: 0
+  _autoProgressLevels: 1
+  _levels: []

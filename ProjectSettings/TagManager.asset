@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Triggerer
+  - Grass
+  - Stone
+  - UICanvas
+  - PowerTools
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - InventoryPro/Equipment
+  - Player
+  - NPC
+  - InventoryPro/Items
+  - plyItem
+  - plyTrigger
+  - RemotePlayer
+  - InventoryPro/Player
+  - Enemy
+  - Pickup
+  - Trigger
+  - MovingPlatform
+  - Debris
+  - LocalPlayer
+  - Weapon
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

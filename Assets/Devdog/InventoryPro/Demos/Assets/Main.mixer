@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!241 &24100000
+AudioMixerController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Main
+  m_OutputGroup: {fileID: 0}
+  m_MasterGroup: {fileID: 24300001}
+  m_Snapshots:
+  - {fileID: 24500003}
+  m_StartSnapshot: {fileID: 24500003}
+  m_SuspendThreshold: -80
+  m_EnableSuspend: 1
+  m_UpdateMode: 0
+  m_ExposedParameters: []
+  m_AudioMixerGroupViews:
+  - guids:
+    - 439a00871a994434baed7a725fe39ac1
+    name: View
+  m_CurrentViewIndex: 0
+  m_TargetSnapshot: {fileID: 24500003}
+--- !u!243 &24300001
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Master
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: 439a00871a994434baed7a725fe39ac1
+  m_Children: []
+  m_Volume: 49d0b884019cf404cbde3f2a9dab8db6
+  m_Pitch: ab74f33407b4fcc439c36018fb038103
+  m_Effects:
+  - {fileID: 24400002}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
+--- !u!244 &24400002
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_EffectID: 9ddcf045314fb0943ab54b1399612909
+  m_EffectName: Attenuation
+  m_MixLevel: 1dc8e55611f236a4da099b31edd7e895
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!245 &24500003
+AudioMixerSnapshotController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Snapshot
+  m_AudioMixer: {fileID: 24100000}
+  m_SnapshotID: 2224be0da9d36f2408e9c614a7210996
+  m_FloatValues:
+    55fc47d05bbe5e2489bd02c5a2d07ccc: 0.546
+    ab74f33407b4fcc439c36018fb038103: 1
+    49d0b884019cf404cbde3f2a9dab8db6: 0
+    71485b770d1e4444d89407093ff910c9: 0.137
+    68fecdfc10e65394aa9c8ac8bc06f9db: -1190
+    91a6b65d627fabf4694b9c2e4e453ead: 5.44
+    4c7cb68eb32b432459aedcde9cf20daa: 0.081
+  m_TransitionOverrides: {}

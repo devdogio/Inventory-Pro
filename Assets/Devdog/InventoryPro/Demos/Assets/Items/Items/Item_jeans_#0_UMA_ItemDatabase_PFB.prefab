@@ -1,0 +1,427 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &105622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 409026}
+  - 33: {fileID: 3323178}
+  - 65: {fileID: 6517946}
+  - 23: {fileID: 2384422}
+  - 114: {fileID: 11446644}
+  - 135: {fileID: 13547642}
+  - 54: {fileID: 5433842}
+  - 114: {fileID: 11455038}
+  - 114: {fileID: 11476998}
+  m_Layer: 21
+  m_Name: Item_jeans_#0_UMA_ItemDatabase_PFB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &409026
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105622}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!23 &2384422
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105622}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!33 &3323178
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105622}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!54 &5433842
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105622}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &6517946
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105622}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &11446644
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 312003f70ef6374469559db47c459029, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _id: 0
+  _name: Jeans
+  _description: UMA Jeans
+  _category: {fileID: 11400000, guid: eb77c9126f485004d89d72b6ca01b3be, type: 2}
+  _useCategoryCooldown: 1
+  _overrideDropObjectPrefab: {fileID: 0}
+  _icon: {fileID: 21300326, guid: bddecc020f6bf0445b97e3d1be62d39c, type: 3}
+  _layoutSizeCols: 1
+  _layoutSizeRows: 1
+  _weight: 3.5
+  _requiredLevel: 0
+  _rarity: {fileID: 11400000, guid: bc557952a8336054b973fad096f592e7, type: 2}
+  _stats: []
+  _usageRequirement: []
+  _buyPrice:
+    _currency: {fileID: 11400000, guid: 0e17a9dfe570a1b40b7737b60fab21e4, type: 2}
+    _amount: 82
+  _sellPrice:
+    _currency: {fileID: 11400000, guid: 0e17a9dfe570a1b40b7737b60fab21e4, type: 2}
+    _amount: 39
+  _isDroppable: 1
+  _isSellable: 1
+  _isStorable: 1
+  _maxStackSize: 1
+  _cooldownTime: 0
+  _equipmentType: {fileID: 11400000, guid: 87f3122f9a5414b42b63e2491fed11f6, type: 2}
+  playOnEquip:
+    audioClip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loop: 0
+  equipVisually: 0
+  _equipmentPosition: {x: 0, y: 0, z: 0}
+  _equipmentRotation: {x: 0, y: 0, z: 0, w: 0}
+  equipSlotsData:
+  - umaEquipSlot: {fileID: 11400000, guid: d2a973229c739eb479bab81e5fe450b1, type: 2}
+    umaOverrideColor: 1
+    umaOverlayColor: {r: 1, g: 0, b: 0.972414, a: 1}
+    umaOverlayDataAsset: {fileID: 11400000, guid: 743e0344832af354d9db89c07b7f8c06,
+      type: 2}
+    umaSlotDataAsset: {fileID: 11400000, guid: c459148b8159f0d4ca2141f00aebc096, type: 2}
+    umaReplaceSlot: {fileID: 11400000, guid: d2a973229c739eb479bab81e5fe450b1, type: 2}
+    umaReplacedSlot:
+      asset: {fileID: 0}
+      overlayScale: 0
+      materialSample: {fileID: 0}
+      slotName: 
+      listID: 0
+      meshRenderer: {fileID: 0}
+      boneNameHashes: 
+      umaBoneData: []
+      animatedBones: []
+      textureNameList: []
+      slotDNA: {fileID: 0}
+      subMeshIndex: 0
+      slotGroup: 
+      tags: []
+    umaPrevReplacedSlot:
+      asset: {fileID: 0}
+      overlayScale: 0
+      materialSample: {fileID: 0}
+      slotName: 
+      listID: 0
+      meshRenderer: {fileID: 0}
+      boneNameHashes: 
+      umaBoneData: []
+      animatedBones: []
+      textureNameList: []
+      slotDNA: {fileID: 0}
+      subMeshIndex: 0
+      slotGroup: 
+      tags: []
+--- !u!114 &11455038
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d9eef25c6bb8754899dc81ec4bd6344, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  useWhenPlayerComesInRange: 0
+  blockPlayerInput: 0
+  itemPrefab: {fileID: 0}
+--- !u!114 &11476998
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0867a5d452aeec445a83de31e5db6976, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!135 &13547642
+SphereCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105622}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: overlayData.textureList.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _name
+      value: Jeans
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _description
+      value: UMA Jeans
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _icon
+      value: 
+      objectReference: {fileID: 21300326, guid: bddecc020f6bf0445b97e3d1be62d39c,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipVisually
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _equipType
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: playOnEquip
+      value: 
+      objectReference: {fileID: 8300000, guid: 10b5f41afe23d724e868d85fb7eae3d5, type: 3}
+    - target: {fileID: 0}
+      propertyPath: UMAOverlayAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 1cbd3bf798a2cf74f99a45cabe63000b,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: _rarity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _category
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _buyPrice._currencyID
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _buyPrice._amount
+      value: 82
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _sellPrice._currencyID
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _sellPrice._amount
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _weight
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: UMASlotData.asset
+      value: 
+      objectReference: {fileID: 11400000, guid: 5bb276810c61d5f4a9e2cadabaad21d5,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: UMASlotData.overlayScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: UMASlotDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: b564f97c29a1fdc4e92078d730ccf838,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: overlayData.asset
+      value: 
+      objectReference: {fileID: 11400000, guid: 1cbd3bf798a2cf74f99a45cabe63000b,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: overlayData.textureList.Array.data[0]
+      value: 
+      objectReference: {fileID: 2800000, guid: 1089a0ce591663d408c7e7fc9d697d3a, type: 3}
+    - target: {fileID: 0}
+      propertyPath: overlayData.textureList.Array.data[1]
+      value: 
+      objectReference: {fileID: 2800000, guid: 7fa4acf3224c02548a18991fcf1f6368, type: 3}
+    - target: {fileID: 0}
+      propertyPath: _overlayDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 743e0344832af354d9db89c07b7f8c06,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: umaSlotName
+      value: MaleLegs
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: umaSlotDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: c459148b8159f0d4ca2141f00aebc096,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: umaReplaceSlot
+      value: 
+      objectReference: {fileID: 11400000, guid: d2a973229c739eb479bab81e5fe450b1,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: umaEquipSlot
+      value: 
+      objectReference: {fileID: 11400000, guid: d2a973229c739eb479bab81e5fe450b1,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: umaOverlayDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 743e0344832af354d9db89c07b7f8c06,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[0].umaEquipSlot
+      value: 
+      objectReference: {fileID: 11400000, guid: d2a973229c739eb479bab81e5fe450b1,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[0].umaOverrideColor
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[0].umaOverlayColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[0].umaOverlayColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[0].umaOverlayColor.b
+      value: .972414017
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[0].umaOverlayColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[0].umaOverlayDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 743e0344832af354d9db89c07b7f8c06,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[0].umaSlotDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: c459148b8159f0d4ca2141f00aebc096,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[0].umaReplaceSlot
+      value: 
+      objectReference: {fileID: 11400000, guid: d2a973229c739eb479bab81e5fe450b1,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[1].umaEquipSlot
+      value: 
+      objectReference: {fileID: 11400000, guid: c459148b8159f0d4ca2141f00aebc096,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[1].umaOverrideColor
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[1].umaOverlayColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[1].umaOverlayColor.b
+      value: .972414017
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[1].umaOverlayColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[1].umaOverlayDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 743e0344832af354d9db89c07b7f8c06,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[1].umaSlotDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: c459148b8159f0d4ca2141f00aebc096,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: equipSlotsData.Array.data[1].umaReplaceSlot
+      value: 
+      objectReference: {fileID: 11400000, guid: d2a973229c739eb479bab81e5fe450b1,
+        type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 105622}
+  m_IsPrefabParent: 1

@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 9c2c642c47b2fc344ab143e21aedaca9
+labels:
+- Design
+- GUI
+- Inventory
+- PSD
+- Photoshop
+- Pro
+- UI
+- UX
+timeCreated: 1437391653
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RavenmoreIconPack.3_0
+    21300002: RavenmoreIconPack.3_1
+    21300004: RavenmoreIconPack.3_2
+    21300006: RavenmoreIconPack.3_3
+    21300008: RavenmoreIconPack.3_4
+    21300010: RavenmoreIconPack.3_5
+    21300012: RavenmoreIconPack.3_6
+    21300014: RavenmoreIconPack.3_7
+    21300016: RavenmoreIconPack.3_8
+    21300018: RavenmoreIconPack.3_9
+    21300020: RavenmoreIconPack.3_10
+    21300022: RavenmoreIconPack.3_11
+    21300024: RavenmoreIconPack.3_12
+    21300026: RavenmoreIconPack.3_13
+    21300028: RavenmoreIconPack.3_14
+    21300030: RavenmoreIconPack.3_15
+    21300032: RavenmoreIconPack.3_16
+    21300034: RavenmoreIconPack.3_17
+    21300036: RavenmoreIconPack.3_18
+    21300038: RavenmoreIconPack.3_19
+    21300040: RavenmoreIconPack.3_20
+    21300042: RavenmoreIconPack.3_21
+    21300044: RavenmoreIconPack.3_22
+    21300046: RavenmoreIconPack.3_23
+    21300048: RavenmoreIconPack.3_24
+    21300050: RavenmoreIconPack.3_25
+    21300052: RavenmoreIconPack.3_26
+    21300054: RavenmoreIconPack.3_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 403
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 403
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 407
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 402
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 408
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 292
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 304
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 289
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 289
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 407
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_17
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 285
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 195
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_19
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 218
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_20
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 218
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_25
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 180
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RavenmoreIconPack.3_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 12
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

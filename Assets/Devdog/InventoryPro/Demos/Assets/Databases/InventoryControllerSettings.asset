@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8afd612ff369d57478f64872342bba5d, type: 3}
+  m_Name: InventoryControllerSettings
+  m_EditorClassIdentifier: 
+  iconDefaultMaterial: {fileID: 0}
+  iconDepletedMaterial: {fileID: 0}
+  onPointerUpInsidePadding: {x: 5, y: 5}
+  itemButtonPrefab: {fileID: 143214, guid: c95dce73b94b03842a5afaaa46b62743, type: 2}
+  collectionSorter: {fileID: 11400000, guid: a6c9cc752d0c8a44c8b48a8551470361, type: 2}
+  localPlayerLayer: 24
+  equipmentLayer: 25
+  itemWorldLayer: 26
+  useContextMenu: 0
+  showConfirmationDialogWhenDroppingItem: 0
+  useUnstackDialog: 0
+  mobileLongPressTime: 0.3
+  mobileDoubleTapTime: 0.4
+  itemDropHandler: {fileID: 11400000, guid: 98c49c46bc8f5a943956f3214c190d3c, type: 2}
+  useObjectDistance: 10
+  pickupCursor:
+    texture: {fileID: 2800000, guid: df7aa76c1155dbc4a86b77bee65640f3, type: 3}
+    hotspot: {x: 0, y: 0}
+    cursorMode: 0
+  useCursor:
+    texture: {fileID: 2800000, guid: 947d630e93f679044859aa969c3eebf2, type: 3}
+    hotspot: {x: 0, y: 0}
+    cursorMode: 0
+  itemTriggerMouseClick: 1
+  itemTriggerUseKeyCode: 330
+  alwaysTriggerGoldItemPickupOnPlayerCollision: 1
+  itemTriggerOnPlayerCollision: 1
+  itemTriggerPickupSprite: {fileID: 21300064, guid: bba01b71c3bb4d2478d56d33340dd469,
+    type: 3}
+  useUnstackClick: 1
+  useUnstackDrag: 1
+  unstackKeys:
+    eventType: 0
+    button: 1
+    keyCode: 304
+    alwaysTriggerMobileActions: 0
+    mobileAction: 3
+  useItemKeys:
+    eventType: 0
+    button: 1
+    keyCode: 0
+    alwaysTriggerMobileActions: 0
+    mobileAction: 3
+  triggerContextMenuKeys:
+    eventType: 0
+    button: 0
+    keyCode: 0
+    alwaysTriggerMobileActions: 0
+    mobileAction: 3

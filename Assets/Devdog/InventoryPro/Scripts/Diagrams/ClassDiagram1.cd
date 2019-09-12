@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Devdog.InventoryPro.BagInventoryItem" Collapsed="true">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAEAhCAAAAIBAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Items\BagInventoryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventoryPro.ConsumableInventoryItem" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAIABAAAAAAAAAAQACAAAEAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Items\ConsumableInventoryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventoryPro.EquippableInventoryItem" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAABAAAAAAAQAAAAAEAEQASAAAAAAAAAI=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Items\EquippableInventoryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventoryPro.GoldInventoryItem" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAEgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Items\GoldInventoryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventoryPro.InventoryItemBase" Collapsed="true">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICNBIAAEBAAZlCEkICRACQKFJAAECECgoUAIAAABgAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Items\InventoryItemBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventoryPro.UnusableInventoryItem" Collapsed="true">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Items\UnusableInventoryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventoryPro.InventoryManager" Collapsed="true">
+    <Position X="1" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAEMAAEAQECAgAAAAAAQgCQIgUBMgAAGAAAABASIBEA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Managers\InventoryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventoryPro.ItemManager" Collapsed="true">
+    <Position X="3.5" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAAAAAAAAAAAgAAgAAgAJAAAAAAAAAAIAACGA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Managers\ItemManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="items" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Devdog.InventoryPro.InventoryLangManager" Collapsed="true">
+    <Position X="8.5" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAMAiAAAgAAgGAIAAAAAABASAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Managers\InventoryLangManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devdog.InventoryPro.InventorySettingsManager" Collapsed="true">
+    <Position X="6" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IhAEWAiAGAICADIaCMEAgAYAAoRAAAAgCEgAICCAhUA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Managers\InventorySettingsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Devdog.InventoryPro.InventoryPool&lt;T&gt;" Collapsed="true">
+    <Position X="10.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAIQABAAAAABAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Other\InventoryPool.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Devdog.InventoryPro.InventoryPool" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAIQABAAAAABAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Other\InventoryPool.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Devdog.InventoryPro.IPoolableObject" Collapsed="true">
+    <Position X="12.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Other\Interfaces\IPoolableObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Devdog.InventoryPro.MobileUIActions" Collapsed="true">
+    <Position X="6" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAQAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Managers\InventorySettingsManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Devdog.InventoryPro.UsedItemItem" Collapsed="true">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Items\InventoryItemBase.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Devdog.InventoryPro.DroppedItemItem" Collapsed="true">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InventorySystem\Scripts\Items\InventoryItemBase.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

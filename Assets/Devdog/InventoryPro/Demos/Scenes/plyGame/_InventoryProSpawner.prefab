@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &148610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 446698}
+  - 114: {fileID: 11478144}
+  m_Layer: 0
+  m_Name: _InventoryProSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &446698
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 148610}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.86, y: 1, z: -6.7}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11478144
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 148610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8c356da65b3eb43b1238e7dd75db05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterCollection: {fileID: 0}
+  inventoryCollections: []
+  skillbarCollection: {fileID: 0}
+  dynamicallyFindUIElements: 1
+  characterCollectionName: 
+  inventoryCollectionNames: []
+  skillbarCollectionName: 
+  equipLocations:
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 1
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  - associatedField: {fileID: 0}
+    findDynamic: 0
+    equipTransformPath: 
+    equipTransform: {fileID: 0}
+    equipHandlerType: 1
+  playerPrefab: {fileID: 155080, guid: 3c9b4663172a1744f9a86ea7a3f08bb7, type: 2}
+  spawnOnAwake: 1
+  dontDestroyPlayerOnLoad: 0
+  movePlayerToSpawnPosition: 1
+  overrideEquipLocations: 0
+  forceSingleCharacter: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 148610}
+  m_IsPrefabParent: 1

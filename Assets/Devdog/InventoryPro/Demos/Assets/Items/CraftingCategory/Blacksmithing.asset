@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c98a2f42cc72694b8eb1068cb92b40a, type: 3}
+  m_Name: Blacksmithing
+  m_EditorClassIdentifier: 
+  ID: 0
+  name: Blacksmithing
+  description: 
+  icon: {fileID: 0}
+  alsoScanBankForRequiredItems: 0
+  rows: 3
+  cols: 3
+  blueprints:
+  - {fileID: 11400000, guid: 75bd0d281cd478243b2a2753c6ee3955, type: 2}
+  - {fileID: 11400000, guid: 33d92fad9c4bf3a4fbe60e931576694f, type: 2}
+  - {fileID: 11400000, guid: d840094df578b5041b3d05175936dc77, type: 2}
+  - {fileID: 11400000, guid: 16cac517ddc7c8f45971672fb2a07246, type: 2}
+  successAudioClip:
+    audioClip: {fileID: 8300000, guid: 79613b1589db4e8478a63486f770f1f4, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  craftingAudioClip:
+    audioClip: {fileID: 8300000, guid: dd5f7b5ee9f67d64f91dbeae64ad9be5, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+  canceledAudioClip:
+    audioClip: {fileID: 8300000, guid: c213823ebb6193b4ebf2edab715c9d58, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  failedAudioClip:
+    audioClip: {fileID: 8300000, guid: c213823ebb6193b4ebf2edab715c9d58, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0

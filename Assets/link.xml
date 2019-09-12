@@ -1,0 +1,13 @@
+<linker>
+       <assembly fullname="mscorlib">
+                <namespace fullname="System.Security.Cryptography" preserve="all"/>
+                <namespace fullname="System.IO.Directory" preserve="all"/>
+       </assembly>
+
+       <assembly fullname="Devdog">
+               <type fullname="Devdog.General" preserve="all"/>
+               <type fullname="Devdog.General.UI" preserve="all"/>
+               <type fullname="Devdog.InventoryPro" preserve="all"/>
+               <type fullname="Devdog.InventoryPro.UI" preserve="all"/>
+       </assembly>
+</linker>
