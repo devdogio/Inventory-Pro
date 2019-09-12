@@ -1,3 +1,7 @@
 [submodule "Docs"]
 	path = Docs
 	url = https://github.com/devdogio/Inventory-Pro-Docs
+
+[submodule "General"]
+	path = Assets/Devdog/General
+	url = https://github.com/devdogio/general
