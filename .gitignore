@@ -45,11 +45,6 @@ Assets/Third Person Controller/Demos/
 Assets/Third Person Controller/Editor/
 Assets/Third Person Controller/Scripts/
 Assets/Rewired/
-ScriptReference/
-Assets/Devdog/General
-Assets/Devdog/General/
-Assets/Devdog/Internal
-Assets/Devdog/Internal/
 Assets/ParadoxNotion/
 Assets/ConsoleE/
 Assets/ConsolePro/
@@ -75,6 +70,5 @@ sysinfo.txt
 # Custom stuff
 *.unitypackage
 bfg.jar
-Assets/Third Person Controller/
 
 \.vs/
