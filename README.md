@@ -22,6 +22,30 @@
 </p>
 <hr>
 
-## What's included
+## Important Links
+##### Discuss Inventory Pro with the rest of the community of existing users on Discord
+<p align="center">	
+	<a href="https://discord.gg/AgDmStu">
+		<img src="https://discordapp.com/api/guilds/355444042009673728/embed.png" alt="Discord server">
 
-OdinSerializer compares very well to many popular serialization libraries in terms of performance and garbage allocation, while providing a superior feature-set for use in Unity.
+## Why is Inventory Pro being open-sourced?
+
+We're open-sourcing Inventory Pro because we have had to move on to new projects and tools. You can read more in our blog post.
+
+100% in the hands of the community, we hope to see the tool flourish, development continue, and any upcoming bugs fixed (the tool should be bug-free as-is).
+
+## What's included with Inventory Pro?
+
+##### Multiple Inventories
+##### Advanced currency system
+##### Controller support
+##### Full mobile support
+##### Crafting
+##### Restrictions
+##### Item Layouts
+##### Cooldowns
+##### Collections
+##### Filters
+##### Vendors
+##### Use items to restore stats
+##### Complete design included
