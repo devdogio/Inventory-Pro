@@ -23,7 +23,7 @@
 <hr>
 
 ## Important Links
-##### Discuss Inventory Pro with the rest of the community of existing users on Discord
+##### Discuss Inventory Pro with the rest of the community on Discord
 <p align="center">	
 	<a href="https://discord.gg/AgDmStu">
 		<img src="https://discordapp.com/api/guilds/355444042009673728/embed.png" alt="Discord server">
@@ -36,16 +36,16 @@ We're open-sourcing Inventory Pro because we have had to move on to new projects
 
 ## What's included with Inventory Pro?
 
-##### Multiple Inventories
-##### Advanced currency system
-##### Controller support
-##### Full mobile support
-##### Crafting
-##### Restrictions
-##### Item Layouts
-##### Cooldowns
-##### Collections
-##### Filters
-##### Vendors
-##### Use items to restore stats
-##### Complete design included
+#### Multiple Inventories
+#### Advanced currency system
+#### Controller support
+#### Full mobile support
+#### Crafting
+#### Restrictions
+#### Item Layouts
+#### Cooldowns
+#### Collections
+#### Filters
+#### Vendors
+#### Use items to restore stats
+#### Complete design included
