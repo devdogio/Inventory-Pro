@@ -1,4 +1,3 @@
-# Inventory-Pro<br />
 <p align="center">
     <img src="https://i.imgur.com/39SLog4.jpg" alt="Inventory Pro">
 </p>
