@@ -24,7 +24,8 @@
 
 ## Important Links
 <p align="center">
-	<b>Discuss Inventory Pro with the rest of the community on Discord</b>	
+	<b>Discuss Inventory Pro with the rest of the community on Discord</b></p>
+<p align="center">
 	<a href="https://discord.gg/AgDmStu">
 		<img src="https://discordapp.com/api/guilds/355444042009673728/embed.png" alt="Discord server"></a></p>
 
