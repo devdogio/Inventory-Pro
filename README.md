@@ -37,7 +37,7 @@
 
 ## Why is Inventory Pro being open-sourced?
 
-We're open-sourcing Inventory Pro because we have had to move on to new projects and tools. You can read more in our blog post.
+After years on the AssetStore, we're open-sourcing Inventory Pro because we're moving on to new projects and tools. You can read more in our blog post.
 
 100% in the hands of the community, we hope to see the tool flourish, development continue, and any upcoming bugs fixed (the tool should be bug-free as-is).
 
