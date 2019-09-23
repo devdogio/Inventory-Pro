@@ -44,15 +44,40 @@ After years on the AssetStore, we're open-sourcing Inventory Pro because we're m
 ## What's included with Inventory Pro?
 
 #### Multiple Inventories
+
 #### Advanced currency system
+
 #### Controller support
+
 #### Full mobile support
+Inventory Pro works across PC, mobile, and consoles, allowing you full freedom to port games using Inventory Pro to most platforms.
+
 #### Crafting
+
 #### Restrictions
+Restrict your collections to types, weight, dragging, (un)stacking and more. This allows you to create a collection that can only hold consumable items, only quest items or both.
+
 #### Item Layouts
+Allow each item to take up a specified amount of space in your collections. For example, allow a shield to take up a 2x2 slot while an apple only takes a 1x1 slot.
+
 #### Cooldowns
+Categories can be given a cooldown, all items sharing this category will all go into cooldown when an item from this category is used. Of course you can override the cooldown per item.
+
 #### Collections
+Easily create your own collections, simply drag on a component, play with the settings in the inspector and voila. The skillbar uses references, and sums up the total amount of items in the inventories.
+
 #### Filters
+Filter collections (any window with items in it). For example when you create multiple inventories (which is very possible) you can filter one to only allow quest items. 
+
 #### Vendors
+Buying and selling from vendors, such as an in-game NPC, is made easy - and with Inventory Pro, you can tweak each vendor right inside the Unity inspector.
+
+It doesn't get easier than that.
+
+#### Cleanup
+Sort, re-stack and tidy up your collections with a simlpe click of a button. The sorting algorithm can be tweaked to your liking to sort based on any paramter or type.
+
 #### Use items to restore stats
+
 #### Complete design included
+
