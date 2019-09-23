@@ -29,6 +29,12 @@
 	<a href="https://discord.gg/AgDmStu">
 		<img src="https://discordapp.com/api/guilds/355444042009673728/embed.png" alt="Discord server"></a></p>
 
+<p align="center">
+	<b>Read the Inventory Pro Documentation</b></p>
+<p align="center">
+	<a href="hthttps://inventory-pro-docs.readthedocs.io/en/latest/">
+		<img src="https://i.imgur.com/0uTxaXy.png" alt="Discord server"></a></p>
+
 ## Why is Inventory Pro being open-sourced?
 
 We're open-sourcing Inventory Pro because we have had to move on to new projects and tools. You can read more in our blog post.
