@@ -53,6 +53,7 @@ After years on the AssetStore, we're open-sourcing Inventory Pro because we're m
 Inventory Pro works across PC, mobile, and consoles, allowing you full freedom to port games using Inventory Pro to most platforms.
 
 #### Crafting
+Inventory Pro makes it easy to create crafting systems. The standard crafting system can of course be inherited from and overridden to modify certain aspects of the crafting process. For example, if you want to add another collection to scan for potential items the user would require.
 
 #### Restrictions
 Restrict your collections to types, weight, dragging, (un)stacking and more. This allows you to create a collection that can only hold consumable items, only quest items or both.
