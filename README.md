@@ -5,7 +5,7 @@
 	The best-selling Inventory System for Unity - now free and open-source!
 </h3>
 <p align="center">
-	Inventory Pro was originally developed by Devdog and has sold 100,000+ licenses on the <a href="https://assetstore.unity.com/publishers/3727">Unity AssetStore</a>.
+	Inventory Pro was originally developed by Devdog and has sold 100,000+ licenses on the <a href="https://assetstore.unity.com/publishers/3727">Unity Asset Store</a>.
 </p>
 
 <hr>
@@ -37,7 +37,7 @@
 
 ## Why is Inventory Pro being open-sourced?
 
-After years on the AssetStore, we're open-sourcing Inventory Pro because we're moving on to new projects and tools. You can read more in our blog post.
+After years on the Asset Store, we're open-sourcing Inventory Pro because we're moving on to new projects and tools. You can read more in our blog post.
 
 100% in the hands of the community, we hope to see the tool flourish, development continue, and any upcoming bugs fixed (the tool should be bug-free as-is).
 
