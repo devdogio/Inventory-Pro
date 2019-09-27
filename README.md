@@ -44,10 +44,15 @@ After years on the AssetStore, we're open-sourcing Inventory Pro because we're m
 ## What's included with Inventory Pro?
 
 #### Multiple Inventories
+The extensive multiple inventories system allows you to .e.g setup 2 player-inventories; one for consumable loot drops (e.g. an apple or a potion), and one for other types of loot. Once setup, the system will automatically move looted items to the appropriate inventory.
+
+The system doesn't restrict the amount of inventories you can create, so go nuts with your creativity!
 
 #### Advanced currency system
+The powerful currency editor allows you to define all your game's currencies; for use at vendors, in crafting blueprints etc. Each currency can even contain a set of conversions. For example, imagine a game with 3 currencies; Gold, Silver, and copper. When running out of copper, the system can convert the silver currency down to copper, essentially re-filling it from a more valuable currency that can be converted down.
 
 #### Controller support
+Easily setup controller support for your game.
 
 #### Full mobile support
 Inventory Pro works across PC, mobile, and consoles, allowing you full freedom to port games using Inventory Pro to most platforms.
@@ -79,6 +84,4 @@ It doesn't get easier than that.
 Sort, re-stack and tidy up your collections with a simlpe click of a button. The sorting algorithm can be tweaked to your liking to sort based on any paramter or type.
 
 #### Use items to restore stats
-
-#### Complete design included
-
+Easily setup a system to e.g. recover health when your player eats an apple. The system is very extensible and can be used to recover stats in many different game-genres.
