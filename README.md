@@ -32,8 +32,8 @@
 <p align="center">
 	<b>Read the Inventory Pro Documentation</b></p>
 <p align="center">
-	<a href="hthttps://inventory-pro-docs.readthedocs.io/en/latest/">
-		<img src="https://i.imgur.com/0uTxaXy.png" alt="Discord server"></a></p>
+	<a href="https://inventory-pro-docs.readthedocs.io/en/latest/">
+		<img src="https://i.imgur.com/0uTxaXy.png" alt="Documentation"></a></p>
 
 ## Why is Inventory Pro being open-sourced?
 
