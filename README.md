@@ -45,6 +45,8 @@ After years on the Asset Store, we're open-sourcing Inventory Pro because we're 
 
 Clone the repository + submodules, or download the zip file + [the general library](https://github.com/devdogio/general) and place it in Assets/Devdog.
 
+Integrations stored in the Integrations folder may have to be removed, if you do not have these plugins in your project.
+
 ## What's included with Inventory Pro?
 
 #### Multiple Inventories
