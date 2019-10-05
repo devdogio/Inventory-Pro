@@ -84,7 +84,7 @@ Buying and selling from vendors, such as an in-game NPC, is made easy - and with
 It doesn't get easier than that.
 
 #### Cleanup
-Sort, re-stack and tidy up your collections with a simlpe click of a button. The sorting algorithm can be tweaked to your liking to sort based on any paramter or type.
+Sort, re-stack and tidy up your collections with a simple click of a button. The sorting algorithm can be tweaked to your liking to sort based on any parameter or type.
 
 #### Use items to restore stats
 Easily setup a system to e.g. recover health when your player eats an apple. The system is very extensible and can be used to recover stats in many different game-genres.
